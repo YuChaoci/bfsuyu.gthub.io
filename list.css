@@ -1,0 +1,13 @@
+. fl{
+    float: left;
+}
+. fr{
+    float: right;
+}
+
+. nav{
+    height: 88px;
+    border-bottom: 2px solid #b6a8a8ee
+    border-top: 100px;
+    background-color: #fdf5de 
+}
